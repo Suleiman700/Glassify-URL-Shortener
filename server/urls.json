@@ -1,0 +1,22 @@
+{
+  "urls": {
+    "KY-HKu": {
+      "originalUrl": "https://panet.co.il/",
+      "created": "2024-12-08T23:17:51.380Z",
+      "visits": 4,
+      "createdBy": "::1"
+    },
+    "j7Szo0": {
+      "originalUrl": "https://www.google.com",
+      "created": "2024-12-08T23:19:01.662Z",
+      "visits": 3,
+      "createdBy": "::1"
+    }
+  },
+  "userUrls": {
+    "::1": [
+      "KY-HKu",
+      "j7Szo0"
+    ]
+  }
+}
