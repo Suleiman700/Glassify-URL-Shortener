@@ -40,7 +40,6 @@ A modern, elegant URL shortener with a stunning glassmorphism design. Built with
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd url-shortener
 ```
 
 2. Install dependencies for both frontend and backend:
